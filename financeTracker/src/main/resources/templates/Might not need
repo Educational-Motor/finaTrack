@@ -1,0 +1,2 @@
+unless using thymeleaf or another template engine. If frontend is pure JS
+then this is unneccessary
